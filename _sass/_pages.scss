@@ -14,25 +14,30 @@
 }
 
 // Users
-.user-details {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 5rem;
-}
+.user {
+    &-details {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 5rem;
+    }
 
-.user-detail {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    flex: 1 1 auto;
-}
+    &-detail {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        flex: 1 1 auto;
+    }
 
-.user-image {
-    border-radius: 50%;
-    margin-bottom: 1rem;
-}
+    &-image {
+        border-radius: 50%;
+        margin-bottom: 1rem;
+        width: 175px;
+        height: 175px;
+        object-fit: cover;
+    }
 
-.user-name {
-    margin-bottom: .5rem;
-    font-weight: bold;
+    &-name {
+        margin-bottom: .5rem;
+        font-weight: bold;
+    }
 }
