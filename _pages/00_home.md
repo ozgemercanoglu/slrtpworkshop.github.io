@@ -11,7 +11,7 @@ Sign languages are visual languages and a key form of communication for Deaf com
 The workshop will consist of invited talks and a challenge on sign language production. We have seen an increase in Sign Language Production (SLP) approaches over the last few
 years. However, the lack of standardised evaluation metrics for SLP approaches hampers meaningful comparisons across different systems. Therefore, this challenge aims to standardise SLP evaluation and representation to enable fairer comparison. It will be conducted using a benchmark dataset and feature a leaderboard.
 
-### Confirmed Speakers
+### Confirmed Speakers 
 
 <div class="user-cards">
   <div class="user-card">
