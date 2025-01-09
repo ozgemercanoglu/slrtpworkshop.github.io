@@ -13,7 +13,7 @@ years. However, the lack of standardised evaluation metrics for SLP approaches h
 
 ### Confirmed Speakers
 
-<div class="users-cards">
+<div class="user-cards">
   <div class="user-card">
     <img src="assets/img/speaker_Michael_Black.jpg" class="user-image" alt="Michael Black">
     <a class="user-name" href="https://ps.is.mpg.de/person/black">Michael Black</a>
