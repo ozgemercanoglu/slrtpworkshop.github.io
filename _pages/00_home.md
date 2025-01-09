@@ -47,59 +47,59 @@ Our [CFP]({{ site.baseurl }}{% link _pages/01_call.md %}) provides additional de
 <div class="user-cards">
   <div class="user-card">
     <img src="assets/img/org_lakhal.jpg" class="user-image" alt="Mohamed Ilyes Lakhal">
-    <a href="https://mlakhal.github.io">Mohamed Ilyes Lakhal</a>
+    <a class="user-name" href="https://mlakhal.github.io">Mohamed Ilyes Lakhal</a>
     <span>University of Surrey</span>
   </div>
   <div class="user-card">
     <img src="assets/img/org_sincan.jpeg" class="user-image" alt="Özge Mercanoğlu Sincan">
-    <a href="https://scholar.google.com/citations?user=nACVfjYAAAAJ&hl=de">Özge Mercanoğlu Sincan</a>
+    <a class="user-name" href="https://scholar.google.com/citations?user=nACVfjYAAAAJ&hl=de">Özge Mercanoğlu Sincan</a>
     <span>University of Surrey</span>
   </div>
   <div class="user-card">
     <img src="assets/img/org_fish.jpeg" class="user-image" alt="Ed Fish">
-    <a href="https://ed-fish.github.io">Ed Fish</a>
+    <a class="user-name" href="https://ed-fish.github.io">Ed Fish</a>
     <span>University of Surrey</span>
   </div>
   <div class="user-card">
     <img src="assets/img/org_walsh.jpg" class="user-image" alt="Harry Walsh">
-    <a href="https://scholar.google.com/citations?user=0H4urUIAAAAJ&hl=en">Harry Walsh</a>
+    <a class="user-name" href="https://scholar.google.com/citations?user=0H4urUIAAAAJ&hl=en">Harry Walsh</a>
     <span>University of Surrey</span>
   </div>
 
   <div class="user-card">
     <img src="assets/img/org_varol.jpg" class="user-image" alt="Gül Varol">
-    <a href="https://gulvarol.github.io">Gül Varol</a>
+    <a class="user-name" href="https://gulvarol.github.io">Gül Varol</a>
     <span>École des Ponts ParisTech</span>
   </div>
   <div class="user-card">
     <img src="assets/img/org_momeni.jpg" class="user-image" alt="Liliane Momeni">
-    <a href="https://www.robots.ox.ac.uk/~liliane/">Liliane Momeni</a>
+    <a class="user-name" href="https://www.robots.ox.ac.uk/~liliane/">Liliane Momeni</a>
     <span>Google Deepmind</span>
   </div>
   <div class="user-card">
     <img src="assets/img/org_fox.jpg" class="user-image" alt="Neil Fox">
-    <a href="https://research.birmingham.ac.uk/en/persons/neil-fox">Neil Fox</a>
+    <a class="user-name" href="https://research.birmingham.ac.uk/en/persons/neil-fox">Neil Fox</a>
     <span>University of Birmingham</span>
   </div>
   <div class="user-card">
     <img src="assets/img/org_Camgoz.jpg" class="user-image" alt="Necati Cihan Camgöz">
-    <a href="https://www.cihancamgoz.com">Necati Cihan Camgöz</a>
+    <a class="user-name" href="https://www.cihancamgoz.com">Necati Cihan Camgöz</a>
     <span>Meta Reality Labs</span>
   </div>
 
   <div class="user-card">
     <img src="assets/img/org_cormier.jpg" class="user-image" alt="Kearsy Cormier">
-    <a href="https://sites.google.com/view/kearsy/">Kearsy Cormier</a>
+    <a class="user-name" href="https://sites.google.com/view/kearsy/">Kearsy Cormier</a>
     <span>University College London</span>
   </div>
   <div class="user-card">
     <img src="assets/img/org_woll.jpg" class="user-image" alt="Bencie Woll">
-    <a href="https://profiles.ucl.ac.uk/7678-bencie-woll">Bencie Woll</a>
+    <a class="user-name" href="https://profiles.ucl.ac.uk/7678-bencie-woll">Bencie Woll</a>
     <span>University College London</span>
   </div>
   <div class="user-card">
     <img src="assets/img/org_bowden.jpg" class="user-image" alt="Richard Bowden">
-    <a href="https://scholar.google.co.uk/citations?user=mvvgDvcAAAAJ&hl=en">Richard Bowden</a>
+    <a class="user-name" href="https://scholar.google.co.uk/citations?user=mvvgDvcAAAAJ&hl=en">Richard Bowden</a>
     <span>University of Surrey</span>
   </div>
 </div>
