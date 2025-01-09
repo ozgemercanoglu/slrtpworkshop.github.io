@@ -15,29 +15,30 @@
 
 // Users
 .user {
-    &-details {
+    &-cards {
         display: flex;
         flex-wrap: wrap;
-        gap: 5rem;
+        gap: 1rem;
     }
 
-    &-detail {
+    &-card {
         display: flex;
         flex-direction: column;
         align-items: center;
-        flex: 1 1 auto;
+        text-align: center;
+        flex: 1 0 25%;
     }
 
     &-image {
         border-radius: 50%;
         margin-bottom: 1rem;
-        width: 175px;
-        height: 175px;
+        width: 180px;
+        height: 180px;
         object-fit: cover;
     }
 
     &-name {
-        margin-bottom: .5rem;
+        margin-bottom: .25rem;
         font-weight: bold;
     }
 }
