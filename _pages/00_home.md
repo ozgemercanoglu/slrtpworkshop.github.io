@@ -13,6 +13,20 @@ years. However, the lack of standardised evaluation metrics for SLP approaches h
 
 ### Confirmed Speakers
 
+<div class="user-details">
+  <div class="user-detail">
+    <img src="assets/img/speaker_Michael_Black.jpg" class="user-image" alt="Michael Black">
+    <span class="user-name">Michael Black</span>
+    <span>Max Planck Institute for Intelligent Systems</span>
+  </div>
+  <div class="user-detail">
+    <img src="assets/img/speaker_Matthias_Niessner.jpg" class="user-image" alt="Matthias Nießner">
+    <span class="user-name">Matthias Nießner</span>
+    <span>Technical University of Munich</span>
+  </div>
+</div>
+
+
 <table style="width:75%">
   <tr>
     <td style="text-align:center"><img src="assets/img/speaker_Michael_Black.jpg" height="175"></td>
