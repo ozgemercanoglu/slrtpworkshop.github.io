@@ -24,7 +24,7 @@ years. However, the lack of standardised evaluation metrics for SLP approaches h
     <a class="user-name" href="https://www.niessnerlab.org/index.html">Matthias Nießner</a>
     <span>Technical University of Munich</span>
   </div>
-  <div class="user-detail">
+  <div class="user-card">
     <img src="assets/img/speaker_MaartjeDeMeulder.jpg" class="user-image" alt="Maartje De Meulder">
     <a class="user-name" href="https://maartjedemeulder.be">Maartje De Meulder</a>
     <span>HU – University of Applied Sciences Utrecht</span>
