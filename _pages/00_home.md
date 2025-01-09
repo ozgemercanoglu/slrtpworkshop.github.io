@@ -36,22 +36,6 @@ years. However, the lack of standardised evaluation metrics for SLP approaches h
   </div>
 </div>
 
-
-<table style="width:75%">
-  <tr>
-    <td style="text-align:center"><img src="assets/img/speaker_Michael_Black.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/speaker_Matthias_Niessner.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/speaker_MaartjeDeMeulder.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/speaker_Abraham_Glasser.jpg" height="175"></td>
-  </tr>
-  <tr>
-  <td style="text-align:center"><a href="https://ps.is.mpg.de/person/black">Michael Black</a> <br> Max Planck Institute for Intelligent Systems</td>
-    <td style="text-align:center"><a href="https://www.niessnerlab.org/index.html">Matthias Nießner</a> <br> Technical University of Munich</td>
-    <td style="text-align:center"><a href="https://maartjedemeulder.be">Maartje De Meulder</a> <br> HU – University of Applied Sciences Utrecht</td>
-    <td style="text-align:center"><a href="https://abrahamglasser.com">Abraham Glasser</a> <br> Gallaudet University</td>
-  </tr>
-</table>
-
 ### How do I submit?
 
 **Main deadline: TBD**

@@ -26,7 +26,7 @@
         flex-direction: column;
         align-items: center;
         text-align: center;
-        flex: 1 0 25%;
+        flex: 1 0 calc(25% - 1rem);
     }
 
     &-image {
