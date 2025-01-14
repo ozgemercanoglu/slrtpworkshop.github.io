@@ -56,6 +56,8 @@
 }
 
 .path-text-animation {
+    stroke: var(--logo-text-stroke);
+    stroke-width: 2;
     stroke-dasharray: 200;
     stroke-dashoffset: 0;
     animation: wave var(--text-animation-speed) infinite linear;
@@ -73,7 +75,8 @@
 
 :root {
     --logo-background: white;
-    --logo-text: rgb(35, 171, 200);
+    --logo-text: rgba(35, 171, 200, .9);
+    --logo-text-stroke: rgb(35, 171, 200);
     --logo-hands: #666666;
     --text-animation-speed: 1s
 }
