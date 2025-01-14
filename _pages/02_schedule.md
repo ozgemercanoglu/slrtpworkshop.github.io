@@ -4,5 +4,5 @@ permalink: /schedule/
 title: Schedule
 ---
 
-TBD
+TBD.
 
