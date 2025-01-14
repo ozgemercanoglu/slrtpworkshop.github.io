@@ -3,6 +3,12 @@
   <meta name="viewport" content="width=device-width initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
+  <meta property="og:title" content="{{ page.og_title | default: site.og_title }}" />
+  <meta property="og:description" content="{{ page.og_description | default: site.og_description }}" />
+  <meta property="og:image" content="{{ site.url }}{{ page.og_image | default: site.og_image }}" />
+  <meta property="og:url" content="{{ page.url | absolute_url }}" />
+  <meta property="og:type" content="website" />
+
   <title>{{ site.name }}{% if page.title and page.url != "/" %} | {{ page.title }}{% endif %}</title>
   <meta name="description" content="{{ site.description }}">
 
