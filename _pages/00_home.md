@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 title: Home
-desc_title: @ CVPR 2025
+desc_title: M@ CVPR 2025
 description: The 3rd Workshop on Sign Language Recognition, Translation and Production
 ---
 
