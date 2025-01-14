@@ -28,6 +28,11 @@ contact_note: >
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
+URL: "https://ozgemercanoglu.github.io/slrtpworkshop.github.io/"
+og_image: "/assets/images/slrtplogo.png"
+og_title: "SLRTP @ CVPR2025"
+og_description: "The 3rd Workshop on Sign Language Recognition, Translation and Production"
+
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
