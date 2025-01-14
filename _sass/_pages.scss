@@ -55,58 +55,51 @@
     /*width: 180px;*/
 }
 
-.path-text-animation {
-    stroke-dasharray: 200;
-    stroke-dashoffset: 200;
-    animation: draw 2s ease-in-out forwards;
+
+  
+.slrtplogo-home path {
+    transform: translate(var(--text-translateX),var(--text-translateY));
 }
 
-svg .path-text-animation2 {
-    transform: translateY(0);
-    transform-origin: center;
+.slrtplogo-home .path-text-animation {
     animation: wavyText var(--text-animation-speed) ease-in-out infinite;
-  }
-  
-  svg .path-text-animation2:nth-child(1) {
+}
+
+.slrtplogo-home .path-text-animation:nth-child(1) {
     animation-delay: 100ms;
-  }
-  
-  svg .path-text-animation2:nth-child(2) {
+}
+
+.slrtplogo-home .path-text-animation:nth-child(2) {
     animation-delay: 200ms;
-  }
-  
-  svg .path-text-animation2:nth-child(3) {
+}
+
+.slrtplogo-home .path-text-animation:nth-child(3) {
     animation-delay: 300ms;
-  }
-  
-  svg .path-text-animation2:nth-child(4) {
+}
+
+.slrtplogo-home .path-text-animation:nth-child(4) {
     animation-delay: 400ms;
-  }
-  
-  svg .path-text-animation2:nth-child(5) {
+}
+
+.slrtplogo-home .path-text-animation:nth-child(5) {
     animation-delay: 500ms;
-  }
-  
-  @keyframes wavyText {
+}
+
+@keyframes wavyText {
     0%,
     100% {
-      transform: translateY(0);
+        transform: translate(var(--text-translateX),var(--text-translateY))
     }
     25%,
     50% {
-      transform: translateY(10%);
+        transform: translate(var(--text-translateX),calc(var(--text-translateY) + 10%))
     }
-  }
+}
   
-  @keyframes draw {
-    to {
-      stroke-dashoffset: 0; /* Çizimi tamamla */
-    }
-  }
 
 :root {
     --logo-background: white;
     --logo-text: rgb(35, 171, 200);
     --logo-hands: #666666;
-    --text-animation-speed: 2s
+    --text-animation-speed: 1s
 }
