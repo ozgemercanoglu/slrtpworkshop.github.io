@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 title: Home
-desc_title: SLRTP @ CVPR 2025
+desc_title: ![SLRTP](assets/img/slrtplogo.png) @ CVPR 2025
 description: The 3rd Workshop on Sign Language Recognition, Translation and Production
 ---
 
