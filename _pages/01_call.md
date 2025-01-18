@@ -15,10 +15,15 @@ We accept papers addressing the issues related to, but not limited to, these top
 - Generative Models for Sign Language Production
 - Non-manual Features and Facial Expression Recognition for Sign Language 
 - Sign Language Recognition and Translation Corpora 
-- Semi-automatic Corpora Annotation Tools 
+- Semi-automatic Corpora Annotation Tools
+- Linguistic and Ethical Aspects of Sign Language Technologies
 - Hand Shape Estimation and Recognition 
 - Human Pose Estimation 
 - Human Mesh Recovery 
 - Animatable Avatars
 
-Important Dates: TBD
+**Important Dates:** 
+
+- Paper Submission: March 17, 2025 
+- Decisions to Authors: April 2, 2025 
+- Camera-Ready: April 6, 2025 
