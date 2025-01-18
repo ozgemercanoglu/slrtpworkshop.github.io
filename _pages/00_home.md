@@ -3,7 +3,7 @@ layout: home
 permalink: /
 title: Home
 desc_title: at CVPR 2025
-description: The 3rd Workshop on Sign Language Recognition, Translation and Production
+description: "The 3rd Workshop on Sign Language Recognition, Translation and Production<br>Wed June 11th - Sun June 15th, 2025, Nashville TN"
 
 ---
 
