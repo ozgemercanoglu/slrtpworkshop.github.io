@@ -47,7 +47,7 @@ We are delighted to announce the winners of the SLRTP 2025 Sign Language Product
 - hfut-lmc (Hefei University of Technology)
 - Hacettepe (Hacettepe University)
 
-Please visit the challenge page for more detail. The organizers would like to thank all the participants for making this challenge a success.
+Please visit the [challenge]{https://slrtpworkshop.github.io/challenge/} page for more detail. The organizers would like to thank all the participants for making this challenge a success.
 
 **Main deadline: TBD**
 
