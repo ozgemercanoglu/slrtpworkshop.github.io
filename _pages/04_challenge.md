@@ -22,15 +22,21 @@ We are delighted to announce the winners of the SLRTP 2025 Sign Language Product
 
 **1st Place: USTC-MoE**
 Team Leader: Kepeng Wu (University of Science and Technology of China)
+
 Members: Zecheng Li, Weichao Zhao, Haodong Wang, Wengang Zhou, Houqiang Li
+
 Method: A retrieval-based approach using generated gloss segmentation and pose dictionary lookups for high-fidelity sign generation.
 
 **2nd Place: hfut-lmc**
 Team Leader: Shengeng Tang (Hefei University of Technology)
+
 Members: Jiayi He, Xu Wang, Ruobei Zhang, Yaxiong Wang, Lechao Cheng
+
 Method: A text-driven conditional diffusion model, learning a direct mapping from text to continuous poses without gloss annotations.
 
 **3rd Place: Hacettepe**
 Team Leader: Meryem Tasyurek (Hacettepe University)
+
 Members: Tugce Kiziltepe, Hacer Yalim Keles
+
 Method: A gloss-free transformer encoder-decoder where poses are generated from latent embeddings.
