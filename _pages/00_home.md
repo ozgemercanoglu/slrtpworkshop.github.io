@@ -39,6 +39,16 @@ years. However, the lack of standardised evaluation metrics for SLP approaches h
 
 ### How do I submit?
 
+### Challenge Results
+
+We are delighted to announce the winners of the SLRTP 2025 Sign Language Production Challenge. This year, more than 30 teams competed, and we thank all participants for their efforts. Below are the top three teams:
+
+- USTC-MoE (University of Science and Technology of China)
+- hfut-lmc (Hefei University of Technology)
+- Hacettepe (Hacettepe University)
+
+Please visit the challenge page for more detail. The organizers would like to thank all the participants for making this challenge a success.
+
 **Main deadline: TBD**
 
 Our [CFP]({{ site.baseurl }}{% link _pages/01_call.md %}) provides additional details on how to submit.
